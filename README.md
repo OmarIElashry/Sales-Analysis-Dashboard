@@ -15,9 +15,11 @@ ________________________________________
 This project presents an interactive sales performance dashboard that analyzes key business metrics across multiple dimensions, including product categories, regions, customer segments, shipment modes, and time periods. The dashboard enables data-driven decision-making by visualizing total sales, profits, quantities, and top-performing products.
 ________________________________________
 ## Tools Used
-- [Python](https://reactjs.org) 
-- [Node.js](https://nodejs.org) - بيئة التشغيل
-- [MongoDB](https://mongodb.com) - قاعدة البيانات
+
+•	Database from (Github)             
+• Data visualization tool (Microsoft Power BI)
+•	Data aggregation and cleaning (Microsoft Excel, Python Programming Language)
+
 ________________________________________
 ## Key Metrics (KPIs)
 •	Total Sales: 2.3M
