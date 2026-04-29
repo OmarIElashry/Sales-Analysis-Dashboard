@@ -17,7 +17,9 @@ ________________________________________
 ## Tools Used
 
 •	Database from (Github)             
+
 • Data visualization tool (Microsoft Power BI)
+
 •	Data aggregation and cleaning (Microsoft Excel, Python Programming Language)
 
 ________________________________________
