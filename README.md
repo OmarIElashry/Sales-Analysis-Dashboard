@@ -4,8 +4,11 @@ By Eng/ Omar Ibrahim Elashry
 ## Project Title: Sales Analysis Dashboard
 ________________________________________
 ## Project Developer
-Omar Ibrahim Elashry   (Data Analyst & Business Development Manager)
+Omar Ibrahim Elashry   
+(Data Analyst & Business Development Manager)
+
 LinkedIn: https://www.linkedin.com/in/omar-ibrahimelashry
+
 Email: omarelashry27@gmail.com
 ________________________________________
 ## Project Overview
